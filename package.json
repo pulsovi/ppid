@@ -1,0 +1,25 @@
+{
+  "name": "ppid",
+  "version": "1.0.0",
+  "description": "print such informations about process and its parent",
+  "main": "index.js",
+  "repository": "https://github.com/pulsovi/ppid.git",
+  "author": "David GABISON <david.gabison@outlook.com>",
+  "license": "MIT",
+  "bin": {
+    "ppid": "bin/ppid.js"
+  },
+  "eslintConfig": {
+    "extends": [
+      "pulsovi/node"
+    ]
+  },
+  "dependencies": {
+    "commander": "^6.2.1",
+    "find-process": "^1.4.4",
+    "ps-list": "^7.2.0"
+  },
+  "devDependencies": {
+    "eslint-config-pulsovi": "https://github.com/pulsovi/eslint-config-pulsovi.git"
+  }
+}
