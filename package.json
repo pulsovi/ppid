@@ -16,8 +16,7 @@
   },
   "dependencies": {
     "commander": "^6.2.1",
-    "find-process": "^1.4.4",
-    "ps-list": "^7.2.0"
+    "find-process": "^1.4.4"
   },
   "devDependencies": {
     "eslint-config-pulsovi": "https://github.com/pulsovi/eslint-config-pulsovi.git"
