@@ -1,6 +1,6 @@
 {
   "name": "ppid",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "print such informations about process and its parent",
   "main": "index.js",
   "repository": "https://github.com/pulsovi/ppid.git",
